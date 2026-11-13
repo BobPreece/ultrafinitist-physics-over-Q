@@ -16,7 +16,9 @@ In continuum 3D fluid mechanics, proving finite-time blow-up relies on stretchin
 
 In **Exhibit III** ([`Run_3_final_symbolic_proofs.md`](Run_3_final_symbolic_proofs.md) and [`Run_3_verify_spatial_and_bounds.py`](Run_3_verify_spatial_and_bounds.py)), our symbolic prover establishes a **Sharp Closed-Form Ultrafinitist No-Blowup Theorem** over $\mathbb{Q}$ on the 3D periodic Symanzik lattice $\mathbb{Z}_L^3$ ($N = L^3$ sites, grid spacing $h$) valid for **all** discrete times $n \ge 0$, all time steps $\Delta t \in \mathbb{Q}_{>0}$, and even at strictly zero viscosity ($\nu = 0$):
 
-$$\max_{x \in \mathbb{Z}_L^3} \|u_n(x)\|^2 \le B_u(E_0, N) = \begin{cases} \dfrac{2(2N + 5)}{3N}\, E_0 & (P_0 = \mathbf{0},\text{ even } L), \\[6pt] \dfrac{2(2N + 8)}{3N}\, E_0 & (P_0 \neq \mathbf{0},\text{ even } L), \end{cases} \qquad \max_{x \in \mathbb{Z}_L^3} \|\omega_n(x)\|^2 \le B_\omega(E_0, N) = \frac{65}{18 h^2}\, E_0.$$
+$$
+\max_{x \in \mathbb{Z}_L^3} \|u_n(x)\|^2 \le B_u(E_0, N) = \begin{cases} \dfrac{2(2N + 5)}{3N} E_0 & (P_0 = \mathbf{0},\text{ even } L) \cr \dfrac{2(2N + 8)}{3N} E_0 & (P_0 \neq \mathbf{0},\text{ even } L) \end{cases}, \qquad \max_{x \in \mathbb{Z}_L^3} \|\omega_n(x)\|^2 \le B_\omega(E_0, N) = \frac{65}{18 h^2} E_0.
+$$
 
 Both bounds are **tight (`0/1` zero slack)**—attained with exact rational equality by the discrete divergence-free reproducing kernel $P_{\text{div}} e_{0,x}$ and curl minimizer $\operatorname{curl}_{\text{Sym}}(e_{0,x})$. Notice the $h^2$ in the denominator of $B_\omega$: **the vorticity ceiling only diverges to $\infty$ if one takes the unphysical continuum limit $h \to 0$.**
 
