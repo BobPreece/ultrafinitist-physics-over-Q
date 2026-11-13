@@ -1,0 +1,179 @@
+{
+  "n_steps": 1000,
+  "total_wall_sec": 118.995900708,
+  "all_assertions_passed": true,
+  "planar_submanifolds": {
+    "equilateral_breathing_from_rest": {
+      "steps_verified": 100,
+      "peak_bits": 2978,
+      "exact_0_over_1": true
+    },
+    "planar_z0_motion": {
+      "steps_verified": 100,
+      "peak_bits": 4416,
+      "exact_0_over_1": true
+    }
+  },
+  "plots_generated": [
+    "bit_length_vs_step.svg",
+    "bit_length_vs_step.png",
+    "battle3_kepler_orbits_and_precession.svg",
+    "battle3_kepler_orbits_and_precession.png",
+    "battle1_chaotic_phase_and_energy.svg",
+    "battle1_chaotic_phase_and_energy.png",
+    "battle2_3body_cluster_and_invariants.svg",
+    "battle2_3body_cluster_and_invariants.png"
+  ],
+  "battles": {
+    "battle1": {
+      "1/2": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 1603,
+        "peak_state_bits": 60,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.13618064215409995,
+          "T=2": 0.26045108379521337,
+          "T=4": 0.31861397627732535,
+          "T=8": 2.3794848452715356
+        },
+        "max_lrl_drift_deg": 0.0,
+        "perihelia": 0,
+        "wall_sec": 1.69482575
+      },
+      "1/4": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 1598,
+        "peak_state_bits": 68,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.0343129135639644,
+          "T=2": 0.3933165733767315,
+          "T=4": 0.12655954974250902,
+          "T=8": 0.5448407204935796
+        },
+        "max_lrl_drift_deg": 0.0,
+        "perihelia": 0,
+        "wall_sec": 1.8065054579999997
+      },
+      "1/8": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 1595,
+        "peak_state_bits": 77,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.008624844377035713,
+          "T=2": 0.06981510428104379,
+          "T=4": 0.03517601243080812,
+          "T=8": 0.2974136846809703
+        },
+        "max_lrl_drift_deg": 0.0,
+        "perihelia": 0,
+        "wall_sec": 1.94230875
+      }
+    },
+    "battle2": {
+      "1/2": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 3963,
+        "peak_state_bits": 84,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.5265671090249578,
+          "T=2": 0.875476096125796,
+          "T=4": 1.1038425374704948,
+          "T=8": 1.417677199531703
+        },
+        "max_lrl_drift_deg": 0.0,
+        "perihelia": 0,
+        "wall_sec": 38.85752775
+      },
+      "1/4": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 7033,
+        "peak_state_bits": 84,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.06834245912398679,
+          "T=2": 0.11824692086592117,
+          "T=4": 0.26117563626420354,
+          "T=8": 0.26877027872413495
+        },
+        "max_lrl_drift_deg": 0.0,
+        "perihelia": 0,
+        "wall_sec": 31.856593999999994
+      },
+      "1/8": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 3882,
+        "peak_state_bits": 97,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.014444714900103676,
+          "T=2": 0.026748462353474084,
+          "T=4": 0.07522381508796336,
+          "T=8": 0.36875640405891225
+        },
+        "max_lrl_drift_deg": 0.0,
+        "perihelia": 0,
+        "wall_sec": 33.048251832999995
+      }
+    },
+    "battle3": {
+      "1/2": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 174,
+        "peak_state_bits": 88,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.0012200609370228684,
+          "T=2": 0.0049284396141045655,
+          "T=4": 0.0626620562154666,
+          "T=8": 0.05498019828966594
+        },
+        "max_lrl_drift_deg": 1.7811106216195694e-13,
+        "perihelia": 76,
+        "wall_sec": 2.293631416000011
+      },
+      "1/4": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 190,
+        "peak_state_bits": 86,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 0.0003049776732004952,
+          "T=2": 0.0012328994251013907,
+          "T=4": 0.01335927287557595,
+          "T=8": 0.009557358855099932
+        },
+        "max_lrl_drift_deg": 1.2722218725854067e-13,
+        "perihelia": 40,
+        "wall_sec": 2.303781541999996
+      },
+      "1/8": {
+        "steps_completed": 1000,
+        "peak_combined_bits": 202,
+        "peak_state_bits": 92,
+        "exact_invariants_0_over_1": true,
+        "exact_reversibility_0_over_1": true,
+        "horizon_errors": {
+          "T=1": 7.624198354526637e-05,
+          "T=2": 0.0003082647598135422,
+          "T=4": 0.0034617438738331354,
+          "T=8": 0.002701907852618748
+        },
+        "max_lrl_drift_deg": 3.3077768687220577e-13,
+        "perihelia": 20,
+        "wall_sec": 2.338822042000004
+      }
+    }
+  }
+}

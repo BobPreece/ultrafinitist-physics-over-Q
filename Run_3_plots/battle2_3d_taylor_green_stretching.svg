@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="920" viewBox="0 0 1360 920">
+<rect x="0" y="0" width="1360" height="920" fill="#f6f8fb"/>
+<rect x="0.0" y="0.0" width="1360.0" height="46.0" fill="#14365d" stroke="none"/>
+<text x="20.0" y="21.0" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">Battle 2: 3D Taylor-Green Vortex Stretching on Z_L^3, UV Cascade &amp; O(dt^2) Accuracy</text>
+<text x="20.0" y="35.0" fill="#cddcf0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Exact 0/1 div_Sym(u) == 0, Momentum P, Energy E_kin | Active 3D Stretching Z_max/Z_0 &gt;= 1.35</text>
+<rect x="20.0" y="56.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="32.0" y="78.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">A. 3D Vortex Stretching Z(t)/Z_0 vs RK4(dt=1/512)</text>
+<text x="32.0" y="89.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">y: Enstrophy Amplification Z(t)/Z_0</text>
+<line x1="96.00" y1="98.00" x2="96.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="96.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">0</text>
+<line x1="206.40" y1="98.00" x2="206.40" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="206.4" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">0.5</text>
+<line x1="316.80" y1="98.00" x2="316.80" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="316.8" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">1</text>
+<line x1="427.20" y1="98.00" x2="427.20" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="427.2" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">1.5</text>
+<line x1="537.60" y1="98.00" x2="537.60" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="537.6" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">2</text>
+<line x1="648.00" y1="98.00" x2="648.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="648.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">2.5</text>
+<line x1="96.00" y1="425.00" x2="648.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="428.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1</text>
+<line x1="96.00" y1="343.25" x2="648.00" y2="343.25" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="346.3" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1.2</text>
+<line x1="96.00" y1="261.50" x2="648.00" y2="261.50" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="264.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1.4</text>
+<line x1="96.00" y1="179.75" x2="648.00" y2="179.75" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="182.8" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1.6</text>
+<line x1="96.00" y1="98.00" x2="648.00" y2="98.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="101.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1.8</text>
+<line x1="96.00" y1="281.94" x2="648.00" y2="281.94" stroke="#b41c2e" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="644.0" y="278.0" fill="#b41c2e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">Z_max/Z_0 &gt;= 1.35 Gate</text>
+<polyline points="96.00,425.00 99.45,424.79 102.90,424.16 106.35,423.11 109.80,421.66 113.25,419.80 116.70,417.56 120.15,414.94 123.60,411.96 127.05,408.63 130.50,404.99 133.95,401.06 137.40,396.85 140.85,392.41 144.30,387.75 147.75,382.92 151.20,377.94 154.65,372.86 158.10,367.71 161.55,362.53 165.00,357.35 168.45,352.23 171.90,347.19 175.35,342.27 178.80,337.50 182.25,332.93 185.70,328.59 189.15,324.49 192.60,320.67 196.05,317.16 199.50,313.96 202.95,311.08 206.40,308.55 209.85,306.36 213.30,304.51 216.75,302.99 220.20,301.80 223.65,300.91 227.10,300.31 230.55,299.98 234.00,299.89 237.45,300.00 240.90,300.29 244.35,300.71 247.80,301.24 251.25,301.83 254.70,302.44 258.15,303.05 261.60,303.60 265.05,304.07 268.50,304.43 271.95,304.63 275.40,304.65 278.85,304.47 282.30,304.05 285.75,303.39 289.20,302.45 292.65,301.23 296.10,299.71 299.55,297.89 303.00,295.76 306.45,293.32 309.90,290.57 313.35,287.51 316.80,284.16 320.25,280.51 323.70,276.60 327.15,272.42 330.60,267.99 334.05,263.34 337.50,258.48 340.95,253.43 344.40,248.23 347.85,242.88 351.30,237.42 354.75,231.88 358.20,226.27 361.65,220.62 365.10,214.97 368.55,209.33 372.00,203.73 375.45,198.20 378.90,192.76 382.35,187.43 385.80,182.24 389.25,177.20 392.70,172.34 396.15,167.68 399.60,163.23 403.05,159.00 406.50,155.02 409.95,151.30 413.40,147.85 416.85,144.68 420.30,141.81 423.75,139.24 427.20,136.98 430.65,135.03 434.10,133.42 437.55,132.13 441.00,131.18 444.45,130.57 447.90,130.29 451.35,130.35 454.80,130.75 458.25,131.47 461.70,132.52 465.15,133.87 468.60,135.52 472.05,137.45 475.50,139.65 478.95,142.08 482.40,144.74 485.85,147.59 489.30,150.61 492.75,153.77 496.20,157.04 499.65,160.38 503.10,163.78 506.55,167.20 510.00,170.61 513.45,173.97 516.90,177.27 520.35,180.48 523.80,183.57 527.25,186.53 530.70,189.32 534.15,191.95 537.60,194.39" fill="none" stroke="#14365d" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="96.00,425.00 123.60,412.02 151.20,378.11 178.80,337.70 206.40,308.62 234.00,299.76 261.60,303.39 289.20,302.54 316.80,285.10 344.40,250.24 372.00,206.29 399.60,165.15 427.20,137.01" fill="none" stroke="#0072b2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="96.00" cy="425.00" r="3" fill="#0072b2"/>
+<circle cx="123.60" cy="412.02" r="3" fill="#0072b2"/>
+<circle cx="151.20" cy="378.11" r="3" fill="#0072b2"/>
+<circle cx="178.80" cy="337.70" r="3" fill="#0072b2"/>
+<circle cx="206.40" cy="308.62" r="3" fill="#0072b2"/>
+<circle cx="234.00" cy="299.76" r="3" fill="#0072b2"/>
+<circle cx="261.60" cy="303.39" r="3" fill="#0072b2"/>
+<circle cx="289.20" cy="302.54" r="3" fill="#0072b2"/>
+<circle cx="316.80" cy="285.10" r="3" fill="#0072b2"/>
+<circle cx="344.40" cy="250.24" r="3" fill="#0072b2"/>
+<circle cx="372.00" cy="206.29" r="3" fill="#0072b2"/>
+<circle cx="399.60" cy="165.15" r="3" fill="#0072b2"/>
+<circle cx="427.20" cy="137.01" r="3" fill="#0072b2"/>
+<polyline points="96.00,425.00 99.45,424.73 102.90,423.91 106.35,422.56 109.80,420.71 113.25,418.37 116.70,415.60 120.15,412.42 123.60,408.88 127.05,405.04 130.50,400.94 133.95,396.64 137.40,392.17 140.85,387.60 144.30,382.97 147.75,378.32 151.20,373.68 154.65,369.10 158.10,364.61 161.55,360.24 165.00,356.00 168.45,351.91 171.90,348.00 175.35,344.28 178.80,340.75 182.25,337.43 185.70,334.31 189.15,331.40 192.60,328.70 196.05,326.21 199.50,323.93 202.95,321.85 206.40,319.97 209.85,318.29 213.30,316.80 216.75,315.49 220.20,314.36 223.65,313.41 227.10,312.63 230.55,312.01 234.00,311.55 237.45,311.24 240.90,311.08 244.35,311.06 247.80,311.18 251.25,311.43 254.70,311.81 258.15,312.32 261.60,312.94 265.05,313.68 268.50,314.53 271.95,315.49 275.40,316.55 278.85,317.70 282.30,318.95 285.75,320.29 289.20,321.71 292.65,323.22 296.10,324.79 299.55,326.44 303.00,328.15 306.45,329.92 309.90,331.75 313.35,333.62 316.80,335.53 320.25,337.47 323.70,339.43 327.15,341.42 330.60,343.41 334.05,345.39 337.50,347.37 340.95,349.32 344.40,351.24 347.85,353.11 351.30,354.92 354.75,356.66 358.20,358.32 361.65,359.88 365.10,361.32 368.55,362.63 372.00,363.80 375.45,364.81 378.90,365.65 382.35,366.30 385.80,366.74 389.25,366.97 392.70,366.97 396.15,366.72 399.60,366.22 403.05,365.47 406.50,364.43 409.95,363.13 413.40,361.54 416.85,359.66 420.30,357.51 423.75,355.06 427.20,352.34 430.65,349.34 434.10,346.08 437.55,342.55 441.00,338.79 444.45,334.78 447.90,330.56 451.35,326.14 454.80,321.54 458.25,316.77 461.70,311.85 465.15,306.81 468.60,301.66 472.05,296.42 475.50,291.12 478.95,285.78 482.40,280.41 485.85,275.04 489.30,269.69 492.75,264.37 496.20,259.11 499.65,253.91 503.10,248.81 506.55,243.80 510.00,238.92 513.45,234.17 516.90,229.56 520.35,225.11 523.80,220.83 527.25,216.72 530.70,212.81 534.15,209.09 537.60,205.57 541.05,202.25 544.50,199.15 547.95,196.26 551.40,193.59 554.85,191.13 558.30,188.89 561.75,186.86 565.20,185.04 568.65,183.43 572.10,182.03 575.55,180.82 579.00,179.80 582.45,178.97 585.90,178.32 589.35,177.84 592.80,177.52 596.25,177.37 599.70,177.35 603.15,177.49 606.60,177.75 610.05,178.14 613.50,178.65 616.95,179.27 620.40,179.99 623.85,180.81 627.30,181.73 630.75,182.73 634.20,183.81 637.65,184.96 641.10,186.18 644.55,187.47 648.00,188.82" fill="none" stroke="#5a6676" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="96.00,425.00 123.60,409.12 151.20,374.38 178.80,341.72 206.40,320.83 234.00,312.07 261.60,313.13 289.20,321.64 316.80,335.35 344.40,351.23 372.00,364.38 399.60,367.94 427.20,355.78 454.80,327.10 482.40,287.96 510.00,247.52 537.60,213.58 648.00,185.10" fill="none" stroke="#009e73" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="96.00" cy="425.00" r="3" fill="#009e73"/>
+<circle cx="123.60" cy="409.12" r="3" fill="#009e73"/>
+<circle cx="151.20" cy="374.38" r="3" fill="#009e73"/>
+<circle cx="178.80" cy="341.72" r="3" fill="#009e73"/>
+<circle cx="206.40" cy="320.83" r="3" fill="#009e73"/>
+<circle cx="234.00" cy="312.07" r="3" fill="#009e73"/>
+<circle cx="261.60" cy="313.13" r="3" fill="#009e73"/>
+<circle cx="289.20" cy="321.64" r="3" fill="#009e73"/>
+<circle cx="316.80" cy="335.35" r="3" fill="#009e73"/>
+<circle cx="344.40" cy="351.23" r="3" fill="#009e73"/>
+<circle cx="372.00" cy="364.38" r="3" fill="#009e73"/>
+<circle cx="399.60" cy="367.94" r="3" fill="#009e73"/>
+<circle cx="427.20" cy="355.78" r="3" fill="#009e73"/>
+<circle cx="454.80" cy="327.10" r="3" fill="#009e73"/>
+<circle cx="482.40" cy="287.96" r="3" fill="#009e73"/>
+<circle cx="510.00" cy="247.52" r="3" fill="#009e73"/>
+<circle cx="537.60" cy="213.58" r="3" fill="#009e73"/>
+<circle cx="648.00" cy="185.10" r="3" fill="#009e73"/>
+<polyline points="96.00,425.00 151.20,376.92 206.40,323.74 261.60,312.85 316.80,332.47 372.00,362.92 427.20,363.88 482.40,308.15 537.60,236.44 592.80,191.16 648.00,180.03" fill="none" stroke="#e69f00" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="96.0" y="98.0" width="552.0" height="327.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="372.0" y="462.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">Physical time t (early stretching window)</text>
+<rect x="428.0" y="104.0" width="214.0" height="73.0" fill="#fcfdff" fill-opacity="0.90" stroke="#dee3ea" stroke-width="1"/>
+<line x1="434.00" y1="113.00" x2="450.00" y2="113.00" stroke="#14365d" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="455.0" y="116.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">L=8 RK4(dt=1/512) Ref</text>
+<line x1="434.00" y1="126.00" x2="450.00" y2="126.00" stroke="#0072b2" stroke-width="2" stroke-linecap="round"/>
+<circle cx="442.00" cy="126.00" r="2" fill="#0072b2"/>
+<text x="455.0" y="129.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">L=8 Q-Engine dt=1/8 (pk=2.740)</text>
+<line x1="434.00" y1="139.00" x2="450.00" y2="139.00" stroke="#5a6676" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="455.0" y="142.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">L=6 RK4(dt=1/512) Ref</text>
+<line x1="434.00" y1="152.00" x2="450.00" y2="152.00" stroke="#009e73" stroke-width="2" stroke-linecap="round"/>
+<circle cx="442.00" cy="152.00" r="2" fill="#009e73"/>
+<text x="455.0" y="155.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">L=6 Q-Engine dt=1/8 (pk=1.691)</text>
+<line x1="434.00" y1="165.00" x2="450.00" y2="165.00" stroke="#e69f00" stroke-width="2" stroke-linecap="round"/>
+<text x="455.0" y="168.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">L=6 Q-Engine dt=1/4</text>
+<rect x="690.0" y="56.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="702.0" y="78.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">B. Battle 2A Convergence Orders vs RK4(dt=1/512)</text>
+<text x="702.0" y="89.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">y: log10(L2 RMS Error)</text>
+<line x1="766.00" y1="98.00" x2="766.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="766.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-2</text>
+<line x1="904.00" y1="98.00" x2="904.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="904.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-1.5</text>
+<line x1="1042.00" y1="98.00" x2="1042.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1042.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-1</text>
+<line x1="1180.00" y1="98.00" x2="1180.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1180.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-0.5</text>
+<line x1="1318.00" y1="98.00" x2="1318.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1318.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^0</text>
+<line x1="766.00" y1="425.00" x2="1318.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="428.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-8</text>
+<line x1="766.00" y1="359.60" x2="1318.00" y2="359.60" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="362.6" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-6</text>
+<line x1="766.00" y1="294.20" x2="1318.00" y2="294.20" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="297.2" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-4</text>
+<line x1="766.00" y1="228.80" x2="1318.00" y2="228.80" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="231.8" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-2</text>
+<line x1="766.00" y1="163.40" x2="1318.00" y2="163.40" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="166.4" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^0</text>
+<line x1="766.00" y1="98.00" x2="1318.00" y2="98.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="101.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^2</text>
+<polyline points="1234.92,168.21 1151.83,194.47 1068.75,214.96 985.66,234.33" fill="none" stroke="#009e73" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1234.92" cy="168.21" r="3" fill="#009e73"/>
+<circle cx="1151.83" cy="194.47" r="3" fill="#009e73"/>
+<circle cx="1068.75" cy="214.96" r="3" fill="#009e73"/>
+<circle cx="985.66" cy="234.33" r="3" fill="#009e73"/>
+<polyline points="1234.92,148.13 1151.83,169.25 1068.75,186.92 985.66,206.07" fill="none" stroke="#56b4e9" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1234.92" cy="148.13" r="3" fill="#56b4e9"/>
+<circle cx="1151.83" cy="169.25" r="3" fill="#56b4e9"/>
+<circle cx="1068.75" cy="186.92" r="3" fill="#56b4e9"/>
+<circle cx="985.66" cy="206.07" r="3" fill="#56b4e9"/>
+<polyline points="1068.75,162.71 985.66,174.64 902.58,185.80 819.49,196.34" fill="none" stroke="#b41c2e" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1068.75,189.74 985.66,210.19 902.58,230.15 819.49,249.96" fill="none" stroke="#e69f00" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1068.75,245.31 985.66,286.43 902.58,326.87 819.49,366.79" fill="none" stroke="#0072b2" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="766.0" y="98.0" width="552.0" height="327.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="1042.0" y="462.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">log10(dt)</text>
+<rect x="1140.0" y="104.0" width="172.0" height="73.0" fill="#fcfdff" fill-opacity="0.90" stroke="#dee3ea" stroke-width="1"/>
+<line x1="1146.00" y1="113.00" x2="1162.00" y2="113.00" stroke="#009e73" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1154.00" cy="113.00" r="2" fill="#009e73"/>
+<text x="1167.0" y="116.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Q-Engine u(T=1) O(dt^2)</text>
+<line x1="1146.00" y1="126.00" x2="1162.00" y2="126.00" stroke="#56b4e9" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1154.00" cy="126.00" r="2" fill="#56b4e9"/>
+<text x="1167.0" y="129.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Q-Engine u(T=2) O(dt^2)</text>
+<line x1="1146.00" y1="139.00" x2="1162.00" y2="139.00" stroke="#b41c2e" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="1167.0" y="142.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Euler (p=1.07)</text>
+<line x1="1146.00" y1="152.00" x2="1162.00" y2="152.00" stroke="#e69f00" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="1167.0" y="155.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">RK2 (p=2.01)</text>
+<line x1="1146.00" y1="165.00" x2="1162.00" y2="165.00" stroke="#0072b2" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="1167.0" y="168.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">RK4 (p=4.06)</text>
+<rect x="20.0" y="489.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="32.0" y="511.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">C. 3D Forward Cascade Across Shells tilde_R (L=6)</text>
+<text x="32.0" y="522.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">y: Shell Kinetic Energy E(tilde_R)</text>
+<line x1="96.00" y1="531.00" x2="96.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="96.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">0</text>
+<line x1="188.00" y1="531.00" x2="188.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="188.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">2</text>
+<line x1="280.00" y1="531.00" x2="280.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="280.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">4</text>
+<line x1="372.00" y1="531.00" x2="372.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="372.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">6</text>
+<line x1="464.00" y1="531.00" x2="464.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="464.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">8</text>
+<line x1="556.00" y1="531.00" x2="556.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="556.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10</text>
+<line x1="648.00" y1="531.00" x2="648.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="648.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">12</text>
+<line x1="96.00" y1="858.00" x2="648.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="861.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">0</text>
+<line x1="96.00" y1="776.25" x2="648.00" y2="776.25" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="779.3" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1000</text>
+<line x1="96.00" y1="694.50" x2="648.00" y2="694.50" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="697.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">2000</text>
+<line x1="96.00" y1="612.75" x2="648.00" y2="612.75" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="615.8" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">3000</text>
+<line x1="96.00" y1="531.00" x2="648.00" y2="531.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="534.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">4000</text>
+<polyline points="96.00,858.00 142.00,858.00 188.00,575.47 234.00,858.00 280.00,858.00 326.00,858.00 372.00,858.00 418.00,858.00 464.00,858.00 510.00,858.00 556.00,858.00 602.00,858.00 648.00,858.00" fill="none" stroke="#14365d" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="96.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="142.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="188.00" cy="575.47" r="3" fill="#14365d"/>
+<circle cx="234.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="280.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="326.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="372.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="418.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="464.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="510.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="556.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="602.00" cy="858.00" r="3" fill="#14365d"/>
+<circle cx="648.00" cy="858.00" r="3" fill="#14365d"/>
+<polyline points="96.00,858.00 142.00,858.00 188.00,857.94 234.00,858.00 280.00,858.00 326.00,805.43 372.00,713.14 418.00,858.00 464.00,772.96 510.00,858.00 556.00,858.00 602.00,858.00 648.00,858.00" fill="none" stroke="#d55e00" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="96.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="142.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="188.00" cy="857.94" r="3" fill="#d55e00"/>
+<circle cx="234.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="280.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="326.00" cy="805.43" r="3" fill="#d55e00"/>
+<circle cx="372.00" cy="713.14" r="3" fill="#d55e00"/>
+<circle cx="418.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="464.00" cy="772.96" r="3" fill="#d55e00"/>
+<circle cx="510.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="556.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="602.00" cy="858.00" r="3" fill="#d55e00"/>
+<circle cx="648.00" cy="858.00" r="3" fill="#d55e00"/>
+<polyline points="96.00,858.00 142.00,858.00 188.00,577.05 234.00,858.00 280.00,858.00 326.00,857.21 372.00,858.00 418.00,858.00 464.00,857.21 510.00,858.00 556.00,858.00 602.00,858.00 648.00,858.00" fill="none" stroke="#009e73" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="96.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="142.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="188.00" cy="577.05" r="3" fill="#009e73"/>
+<circle cx="234.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="280.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="326.00" cy="857.21" r="3" fill="#009e73"/>
+<circle cx="372.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="418.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="464.00" cy="857.21" r="3" fill="#009e73"/>
+<circle cx="510.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="556.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="602.00" cy="858.00" r="3" fill="#009e73"/>
+<circle cx="648.00" cy="858.00" r="3" fill="#009e73"/>
+<rect x="96.0" y="531.0" width="552.0" height="327.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="372.0" y="895.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">Intrinsic Roughness Shell tilde_R = r_x + r_y + r_z</text>
+<rect x="440.0" y="537.0" width="202.0" height="47.0" fill="#fcfdff" fill-opacity="0.90" stroke="#dee3ea" stroke-width="1"/>
+<line x1="446.00" y1="546.00" x2="462.00" y2="546.00" stroke="#14365d" stroke-width="2" stroke-linecap="round"/>
+<circle cx="454.00" cy="546.00" r="2" fill="#14365d"/>
+<text x="467.0" y="549.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Initial t=0 (pure IR)</text>
+<line x1="446.00" y1="559.00" x2="462.00" y2="559.00" stroke="#d55e00" stroke-width="2" stroke-linecap="round"/>
+<circle cx="454.00" cy="559.00" r="2" fill="#d55e00"/>
+<text x="467.0" y="562.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Peak Stretching (UV excited)</text>
+<line x1="446.00" y1="572.00" x2="462.00" y2="572.00" stroke="#009e73" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<circle cx="454.00" cy="572.00" r="2" fill="#009e73"/>
+<text x="467.0" y="575.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Final step n=250</text>
+<rect x="690.0" y="489.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="702.0" y="511.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">D. Battle 2 3D Bit-Length Plateau (L=6, n=250 Steps)</text>
+<text x="702.0" y="522.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">y: Peak numerator/denominator bits</text>
+<line x1="766.00" y1="531.00" x2="766.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="766.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">0</text>
+<line x1="876.40" y1="531.00" x2="876.40" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="876.4" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">50</text>
+<line x1="986.80" y1="531.00" x2="986.80" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="986.8" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">100</text>
+<line x1="1097.20" y1="531.00" x2="1097.20" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1097.2" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">150</text>
+<line x1="1207.60" y1="531.00" x2="1207.60" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1207.6" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">200</text>
+<line x1="1318.00" y1="531.00" x2="1318.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1318.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">250</text>
+<line x1="766.00" y1="858.00" x2="1318.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="861.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">0</text>
+<line x1="766.00" y1="797.44" x2="1318.00" y2="797.44" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="800.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">2000</text>
+<line x1="766.00" y1="736.89" x2="1318.00" y2="736.89" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="739.9" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">4000</text>
+<line x1="766.00" y1="676.33" x2="1318.00" y2="676.33" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="679.4" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">6000</text>
+<line x1="766.00" y1="615.78" x2="1318.00" y2="615.78" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="618.8" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">8000</text>
+<line x1="766.00" y1="555.22" x2="1318.00" y2="555.22" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="558.2" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1.0e+04</text>
+<line x1="766.00" y1="555.22" x2="1318.00" y2="555.22" stroke="#b41c2e" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="1314.0" y="551.2" fill="#b41c2e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10,000-bit Ceiling</text>
+<polyline points="766.00,857.76 768.21,853.61 770.42,853.58 772.62,853.61 774.83,853.49 777.04,853.52 779.25,853.58 781.46,853.58 783.66,853.52 785.87,853.49 788.08,853.55 790.29,853.49 792.50,853.49 794.70,853.55 796.91,853.46 799.12,853.46 801.33,853.46 810.16,853.58 832.24,853.46 854.32,853.49 876.40,853.46 898.48,853.43 920.56,853.46 942.64,853.43 964.72,853.43 986.80,853.40 1008.88,853.40 1030.96,853.25 1053.04,853.25 1075.12,853.28 1097.20,853.16 1119.28,853.22 1141.36,853.16 1163.44,853.16 1185.52,853.49 1207.60,853.06 1229.68,853.10 1251.76,853.10 1273.84,853.00 1295.92,852.97 1318.00,853.00" fill="none" stroke="#009e73" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="766.00,857.76 768.21,853.67 770.42,853.64 772.62,853.52 774.83,853.49 777.04,853.67 779.25,853.61 781.46,853.67 783.66,853.64 785.87,853.58 788.08,853.88 790.29,853.61 792.50,853.55 794.70,853.55 796.91,853.64 799.12,853.61 801.33,853.70 810.16,853.61 832.24,853.46 854.32,853.55 876.40,853.34 898.48,853.37 920.56,853.37 942.64,853.19 964.72,853.16 986.80,853.25 1008.88,853.06 1030.96,853.06 1053.04,853.06 1075.12,853.00 1097.20,852.97 1119.28,853.19 1141.36,852.97 1163.44,853.10 1185.52,852.94 1207.60,852.94 1229.68,852.94 1251.76,853.03 1273.84,853.03 1295.92,852.91 1318.00,853.00" fill="none" stroke="#e69f00" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="766.00,857.76 768.21,851.97 770.42,852.04 772.62,852.04 774.83,852.00 777.04,852.07 779.25,851.88 781.46,851.94 783.66,851.85 785.87,851.85 788.08,851.82 790.29,851.91 792.50,851.85 794.70,851.91 796.91,851.82 799.12,851.82 801.33,852.13 810.16,851.91 832.24,851.85 854.32,851.88 876.40,851.82 898.48,851.91 920.56,851.97 942.64,851.94 964.72,851.85 986.80,851.82 1008.88,851.85 1030.96,851.88 1053.04,851.67 1075.12,851.73 1097.20,851.64 1119.28,851.61 1141.36,851.67 1163.44,851.61 1185.52,851.88 1207.60,851.67 1229.68,851.64 1251.76,851.61 1273.84,851.82 1295.92,851.88 1318.00,851.67" fill="none" stroke="#0072b2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="766.00,856.58 768.21,848.77 770.42,848.80 772.62,848.80 774.83,848.70 777.04,848.70 779.25,848.89 781.46,848.80 783.66,848.77 785.87,848.83 788.08,848.83 790.29,848.80 792.50,848.74 794.70,848.80 796.91,848.64 799.12,848.64 801.33,848.74 810.16,848.80 832.24,848.77 854.32,848.74 876.40,848.67 898.48,848.80 920.56,848.61 942.64,848.64 964.72,848.64 986.80,848.80 1008.88,848.61 1030.96,848.83 1053.04,848.61 1075.12,848.55 1097.20,848.61 1119.28,848.77 1141.36,848.49 1163.44,848.52 1185.52,848.49 1207.60,848.49 1229.68,848.55 1251.76,848.46 1273.84,848.70 1295.92,848.46 1318.00,848.55" fill="none" stroke="#cc79a7" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="766.0" y="531.0" width="552.0" height="327.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="1042.0" y="895.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">Macro-step n</text>
+<rect x="1104.0" y="537.0" width="208.0" height="60.0" fill="#fcfdff" fill-opacity="0.90" stroke="#dee3ea" stroke-width="1"/>
+<line x1="1110.00" y1="546.00" x2="1126.00" y2="546.00" stroke="#009e73" stroke-width="2" stroke-linecap="round"/>
+<text x="1131.0" y="549.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">2A dt=1/4 (max=166b)</text>
+<line x1="1110.00" y1="559.00" x2="1126.00" y2="559.00" stroke="#e69f00" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="1131.0" y="562.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">2A dt=1/2 (max=168b)</text>
+<line x1="1110.00" y1="572.00" x2="1126.00" y2="572.00" stroke="#0072b2" stroke-width="2" stroke-linecap="round"/>
+<text x="1131.0" y="575.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">2B Viscous nu=1/50 (max=211b)</text>
+<line x1="1110.00" y1="585.00" x2="1126.00" y2="585.00" stroke="#cc79a7" stroke-width="2" stroke-linecap="round"/>
+<text x="1131.0" y="588.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">2A Prime +3/65537 (max=315b)</text>
+</svg>

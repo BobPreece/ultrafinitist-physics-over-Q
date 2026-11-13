@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="920" viewBox="0 0 1360 920">
+<rect x="0" y="0" width="1360" height="920" fill="#f6f8fb"/>
+<rect x="0.0" y="0.0" width="1360.0" height="46.0" fill="#14365d" stroke="none"/>
+<text x="20.0" y="21.0" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">Cross-Battle Verification Summary: Small-dt Tangent, Slopes, Speed &amp; Vortex State</text>
+<text x="20.0" y="35.0" fill="#cddcf0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Zero Small-dt Quantization Freezing (down to 2^-30) | Fair-Fight Slopes | &lt;5s SIGALRM Audit</text>
+<rect x="20.0" y="56.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="32.0" y="78.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">A. Small-dt Tangent ||(F_dt-id)/dt - X(z_0)||_inf</text>
+<text x="32.0" y="89.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">y: log10(Tangent Error)</text>
+<line x1="96.00" y1="98.00" x2="96.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="96.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-10</text>
+<line x1="206.40" y1="98.00" x2="206.40" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="206.4" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-8</text>
+<line x1="316.80" y1="98.00" x2="316.80" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="316.8" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-6</text>
+<line x1="427.20" y1="98.00" x2="427.20" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="427.2" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-4</text>
+<line x1="537.60" y1="98.00" x2="537.60" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="537.6" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-2</text>
+<line x1="648.00" y1="98.00" x2="648.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="648.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^0</text>
+<line x1="96.00" y1="425.00" x2="648.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="428.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-15</text>
+<line x1="96.00" y1="343.25" x2="648.00" y2="343.25" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="346.3" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-10</text>
+<line x1="96.00" y1="261.50" x2="648.00" y2="261.50" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="264.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-5</text>
+<line x1="96.00" y1="179.75" x2="648.00" y2="179.75" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="182.8" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^0</text>
+<line x1="96.00" y1="98.00" x2="648.00" y2="98.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="101.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^5</text>
+<polyline points="581.53,235.74 481.83,264.79 315.66,314.00 149.49,363.22" fill="none" stroke="#009e73" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="581.53" cy="235.74" r="3" fill="#009e73"/>
+<circle cx="481.83" cy="264.79" r="3" fill="#009e73"/>
+<circle cx="315.66" cy="314.00" r="3" fill="#009e73"/>
+<circle cx="149.49" cy="363.22" r="3" fill="#009e73"/>
+<polyline points="581.53,235.12 481.83,264.66 315.66,313.88 149.49,363.10" fill="none" stroke="#e69f00" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="581.53" cy="235.12" r="3" fill="#e69f00"/>
+<circle cx="481.83" cy="264.66" r="3" fill="#e69f00"/>
+<circle cx="315.66" cy="313.88" r="3" fill="#e69f00"/>
+<circle cx="149.49" cy="363.10" r="3" fill="#e69f00"/>
+<polyline points="581.53,171.96 481.83,202.01 315.66,251.24 149.49,300.46" fill="none" stroke="#0072b2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="581.53" cy="171.96" r="3" fill="#0072b2"/>
+<circle cx="481.83" cy="202.01" r="3" fill="#0072b2"/>
+<circle cx="315.66" cy="251.24" r="3" fill="#0072b2"/>
+<circle cx="149.49" cy="300.46" r="3" fill="#0072b2"/>
+<polyline points="581.53,150.32 481.83,179.24 315.66,228.47 149.49,277.69" fill="none" stroke="#cc79a7" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="581.53" cy="150.32" r="3" fill="#cc79a7"/>
+<circle cx="481.83" cy="179.24" r="3" fill="#cc79a7"/>
+<circle cx="315.66" cy="228.47" r="3" fill="#cc79a7"/>
+<circle cx="149.49" cy="277.69" r="3" fill="#cc79a7"/>
+<rect x="96.0" y="98.0" width="552.0" height="327.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="372.0" y="462.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">log10(dt) down to dt = 2^-30 (~9.3e-10)</text>
+<rect x="518.0" y="104.0" width="124.0" height="60.0" fill="#fcfdff" fill-opacity="0.90" stroke="#dee3ea" stroke-width="1"/>
+<line x1="524.00" y1="113.00" x2="540.00" y2="113.00" stroke="#009e73" stroke-width="2" stroke-linecap="round"/>
+<circle cx="532.00" cy="113.00" r="2" fill="#009e73"/>
+<text x="545.0" y="116.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Battle 1A (m=6)</text>
+<line x1="524.00" y1="126.00" x2="540.00" y2="126.00" stroke="#e69f00" stroke-width="2" stroke-linecap="round"/>
+<circle cx="532.00" cy="126.00" r="2" fill="#e69f00"/>
+<text x="545.0" y="129.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Battle 1B (m=6)</text>
+<line x1="524.00" y1="139.00" x2="540.00" y2="139.00" stroke="#0072b2" stroke-width="2" stroke-linecap="round"/>
+<circle cx="532.00" cy="139.00" r="2" fill="#0072b2"/>
+<text x="545.0" y="142.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Battle 2A (L=6)</text>
+<line x1="524.00" y1="152.00" x2="540.00" y2="152.00" stroke="#cc79a7" stroke-width="2" stroke-linecap="round"/>
+<circle cx="532.00" cy="152.00" r="2" fill="#cc79a7"/>
+<text x="545.0" y="155.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Battle 3 (L=6)</text>
+<rect x="690.0" y="56.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="702.0" y="78.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">B. Gate 4 Slopes &amp; Q-Engine O(dt^2) (Battle 1A)</text>
+<text x="702.0" y="89.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">y: log10(L2 RMS Error at T=0.5 / T=1.0)</text>
+<line x1="766.00" y1="98.00" x2="766.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="766.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-2</text>
+<line x1="904.00" y1="98.00" x2="904.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="904.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-1.5</text>
+<line x1="1042.00" y1="98.00" x2="1042.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1042.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-1</text>
+<line x1="1180.00" y1="98.00" x2="1180.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1180.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^-0.5</text>
+<line x1="1318.00" y1="98.00" x2="1318.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="1318.0" y="438.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">10^0</text>
+<line x1="766.00" y1="425.00" x2="1318.00" y2="425.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="428.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-14</text>
+<line x1="766.00" y1="370.50" x2="1318.00" y2="370.50" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="373.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-12</text>
+<line x1="766.00" y1="316.00" x2="1318.00" y2="316.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="319.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-10</text>
+<line x1="766.00" y1="261.50" x2="1318.00" y2="261.50" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="264.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-8</text>
+<line x1="766.00" y1="207.00" x2="1318.00" y2="207.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="210.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-6</text>
+<line x1="766.00" y1="152.50" x2="1318.00" y2="152.50" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="155.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-4</text>
+<line x1="766.00" y1="98.00" x2="1318.00" y2="98.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="760.0" y="101.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">10^-2</text>
+<polyline points="1234.92,111.76 1151.83,127.72 1068.75,144.01 985.66,160.39" fill="none" stroke="#009e73" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1234.92" cy="111.76" r="3" fill="#009e73"/>
+<circle cx="1151.83" cy="127.72" r="3" fill="#009e73"/>
+<circle cx="1068.75" cy="144.01" r="3" fill="#009e73"/>
+<circle cx="985.66" cy="160.39" r="3" fill="#009e73"/>
+<polyline points="1068.75,143.57 985.66,151.76 902.58,159.96 819.49,168.15" fill="none" stroke="#b41c2e" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1068.75" cy="143.57" r="3" fill="#b41c2e"/>
+<circle cx="985.66" cy="151.76" r="3" fill="#b41c2e"/>
+<circle cx="902.58" cy="159.96" r="3" fill="#b41c2e"/>
+<circle cx="819.49" cy="168.15" r="3" fill="#b41c2e"/>
+<polyline points="1068.75,200.94 985.66,217.35 902.58,233.76 819.49,250.16" fill="none" stroke="#e69f00" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1068.75" cy="200.94" r="3" fill="#e69f00"/>
+<circle cx="985.66" cy="217.35" r="3" fill="#e69f00"/>
+<circle cx="902.58" cy="233.76" r="3" fill="#e69f00"/>
+<circle cx="819.49" cy="250.16" r="3" fill="#e69f00"/>
+<polyline points="1068.75,318.89 985.66,351.69 902.58,384.49 819.49,417.23" fill="none" stroke="#0072b2" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1068.75" cy="318.89" r="3" fill="#0072b2"/>
+<circle cx="985.66" cy="351.69" r="3" fill="#0072b2"/>
+<circle cx="902.58" cy="384.49" r="3" fill="#0072b2"/>
+<circle cx="819.49" cy="417.23" r="3" fill="#0072b2"/>
+<rect x="766.0" y="98.0" width="552.0" height="327.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="1042.0" y="462.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">log10(dt)</text>
+<rect x="1140.0" y="104.0" width="172.0" height="60.0" fill="#fcfdff" fill-opacity="0.90" stroke="#dee3ea" stroke-width="1"/>
+<line x1="1146.00" y1="113.00" x2="1162.00" y2="113.00" stroke="#009e73" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1154.00" cy="113.00" r="2" fill="#009e73"/>
+<text x="1167.0" y="116.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Q-Engine 1A (p=2.00)</text>
+<line x1="1146.00" y1="126.00" x2="1162.00" y2="126.00" stroke="#b41c2e" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<circle cx="1154.00" cy="126.00" r="2" fill="#b41c2e"/>
+<text x="1167.0" y="129.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Euler (p=1.000)</text>
+<line x1="1146.00" y1="139.00" x2="1162.00" y2="139.00" stroke="#e69f00" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<circle cx="1154.00" cy="139.00" r="2" fill="#e69f00"/>
+<text x="1167.0" y="142.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Midpoint RK2 (p=2.000)</text>
+<line x1="1146.00" y1="152.00" x2="1162.00" y2="152.00" stroke="#0072b2" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<circle cx="1154.00" cy="152.00" r="2" fill="#0072b2"/>
+<text x="1167.0" y="155.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Classical RK4 (p=3.992)</text>
+<rect x="20.0" y="489.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="32.0" y="511.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">C. Macro-Step Wall-Clock Speed vs 5.0s SIGALRM Limit</text>
+<text x="32.0" y="522.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">y: Seconds per macro-step</text>
+<line x1="96.00" y1="531.00" x2="96.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="96.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">0</text>
+<line x1="234.00" y1="531.00" x2="234.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="234.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">2</text>
+<line x1="372.00" y1="531.00" x2="372.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="372.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">4</text>
+<line x1="510.00" y1="531.00" x2="510.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="510.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">6</text>
+<line x1="648.00" y1="531.00" x2="648.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="648.0" y="871.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">8</text>
+<line x1="96.00" y1="858.00" x2="648.00" y2="858.00" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="861.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">0</text>
+<line x1="96.00" y1="798.55" x2="648.00" y2="798.55" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="801.6" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">1</text>
+<line x1="96.00" y1="739.09" x2="648.00" y2="739.09" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="742.1" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">2</text>
+<line x1="96.00" y1="679.64" x2="648.00" y2="679.64" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="682.7" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">3</text>
+<line x1="96.00" y1="620.18" x2="648.00" y2="620.18" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="623.2" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">4</text>
+<line x1="96.00" y1="560.73" x2="648.00" y2="560.73" stroke="#dee3ea" stroke-width="1" stroke-linecap="round"/>
+<text x="90.0" y="563.7" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">5</text>
+<line x1="96.00" y1="560.73" x2="648.00" y2="560.73" stroke="#b41c2e" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+<text x="644.0" y="556.7" fill="#b41c2e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">5.0s SIGALRM Hard Limit</text>
+<polyline points="165.00,856.80 234.00,854.90 303.00,844.08 372.00,855.14 441.00,855.46 510.00,845.30 579.00,848.03 648.00,843.74" fill="none" stroke="#d55e00" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="165.00" cy="856.80" r="3" fill="#d55e00"/>
+<circle cx="234.00" cy="854.90" r="3" fill="#d55e00"/>
+<circle cx="303.00" cy="844.08" r="3" fill="#d55e00"/>
+<circle cx="372.00" cy="855.14" r="3" fill="#d55e00"/>
+<circle cx="441.00" cy="855.46" r="3" fill="#d55e00"/>
+<circle cx="510.00" cy="845.30" r="3" fill="#d55e00"/>
+<circle cx="579.00" cy="848.03" r="3" fill="#d55e00"/>
+<circle cx="648.00" cy="843.74" r="3" fill="#d55e00"/>
+<polyline points="165.00,857.17 234.00,855.89 303.00,848.23 372.00,855.66 441.00,855.78 510.00,847.82 579.00,849.79 648.00,846.52" fill="none" stroke="#0072b2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="165.00" cy="857.17" r="3" fill="#0072b2"/>
+<circle cx="234.00" cy="855.89" r="3" fill="#0072b2"/>
+<circle cx="303.00" cy="848.23" r="3" fill="#0072b2"/>
+<circle cx="372.00" cy="855.66" r="3" fill="#0072b2"/>
+<circle cx="441.00" cy="855.78" r="3" fill="#0072b2"/>
+<circle cx="510.00" cy="847.82" r="3" fill="#0072b2"/>
+<circle cx="579.00" cy="849.79" r="3" fill="#0072b2"/>
+<circle cx="648.00" cy="846.52" r="3" fill="#0072b2"/>
+<rect x="96.0" y="531.0" width="552.0" height="327.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="372.0" y="895.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">Config Index (1:B1A6, 2:B1A7, 3:B1B6, 4:B2A6, 5:B2Rev6, 6:B2B6, 7:B2A8, 8:B3)</text>
+<rect x="500.0" y="537.0" width="142.0" height="34.0" fill="#fcfdff" fill-opacity="0.90" stroke="#dee3ea" stroke-width="1"/>
+<line x1="506.00" y1="546.00" x2="522.00" y2="546.00" stroke="#d55e00" stroke-width="2" stroke-linecap="round"/>
+<circle cx="514.00" cy="546.00" r="2" fill="#d55e00"/>
+<text x="527.0" y="549.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Peak Step Time (s)</text>
+<line x1="506.00" y1="559.00" x2="522.00" y2="559.00" stroke="#0072b2" stroke-width="2" stroke-linecap="round"/>
+<circle cx="514.00" cy="559.00" r="2" fill="#0072b2"/>
+<text x="527.0" y="562.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Mean Step Time (s)</text>
+<rect x="690.0" y="489.0" width="650.0" height="415.0" fill="#ffffff" stroke="#dee3ea" stroke-width="1"/>
+<text x="702.0" y="511.0" fill="#14365d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="bold" text-anchor="start">D. Battle 1A Final Vorticity omega_300(x, y) on Z_8^2</text>
+<text x="702.0" y="522.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">Merged IR dipole structure at step n=300 (dt=1/4, t=75)</text>
+<rect x="748.0" y="820.6" width="66.3" height="42.0" fill="#124e9e" stroke="none"/>
+<rect x="813.8" y="820.6" width="66.3" height="42.0" fill="#df9fa7" stroke="none"/>
+<rect x="879.5" y="820.6" width="66.3" height="42.0" fill="#dc979f" stroke="none"/>
+<rect x="945.2" y="820.6" width="66.3" height="42.0" fill="#eed7db" stroke="none"/>
+<rect x="1011.0" y="820.6" width="66.3" height="42.0" fill="#b3c5df" stroke="none"/>
+<rect x="1076.8" y="820.6" width="66.3" height="42.0" fill="#bbcce2" stroke="none"/>
+<rect x="1142.5" y="820.6" width="66.3" height="42.0" fill="#f3e8eb" stroke="none"/>
+<rect x="1208.2" y="820.6" width="66.3" height="42.0" fill="#f5f7fa" stroke="none"/>
+<rect x="748.0" y="779.2" width="66.3" height="42.0" fill="#e1a6ad" stroke="none"/>
+<rect x="813.8" y="779.2" width="66.3" height="42.0" fill="#90acd1" stroke="none"/>
+<rect x="879.5" y="779.2" width="66.3" height="42.0" fill="#f6f0f3" stroke="none"/>
+<rect x="945.2" y="779.2" width="66.3" height="42.0" fill="#cd606b" stroke="none"/>
+<rect x="1011.0" y="779.2" width="66.3" height="42.0" fill="#ebeff6" stroke="none"/>
+<rect x="1076.8" y="779.2" width="66.3" height="42.0" fill="#6189be" stroke="none"/>
+<rect x="1142.5" y="779.2" width="66.3" height="42.0" fill="#c6d4e7" stroke="none"/>
+<rect x="1208.2" y="779.2" width="66.3" height="42.0" fill="#d47882" stroke="none"/>
+<rect x="748.0" y="737.9" width="66.3" height="42.0" fill="#e5b6bc" stroke="none"/>
+<rect x="813.8" y="737.9" width="66.3" height="42.0" fill="#f6f2f5" stroke="none"/>
+<rect x="879.5" y="737.9" width="66.3" height="42.0" fill="#8eaad0" stroke="none"/>
+<rect x="945.2" y="737.9" width="66.3" height="42.0" fill="#f5eef1" stroke="none"/>
+<rect x="1011.0" y="737.9" width="66.3" height="42.0" fill="#dfa0a7" stroke="none"/>
+<rect x="1076.8" y="737.9" width="66.3" height="42.0" fill="#e4b3ba" stroke="none"/>
+<rect x="1142.5" y="737.9" width="66.3" height="42.0" fill="#8ca8cf" stroke="none"/>
+<rect x="1208.2" y="737.9" width="66.3" height="42.0" fill="#c7d4e7" stroke="none"/>
+<rect x="748.0" y="696.5" width="66.3" height="42.0" fill="#f0dee2" stroke="none"/>
+<rect x="813.8" y="696.5" width="66.3" height="42.0" fill="#d47982" stroke="none"/>
+<rect x="879.5" y="696.5" width="66.3" height="42.0" fill="#c6d4e7" stroke="none"/>
+<rect x="945.2" y="696.5" width="66.3" height="42.0" fill="#648bbf" stroke="none"/>
+<rect x="1011.0" y="696.5" width="66.3" height="42.0" fill="#e8edf4" stroke="none"/>
+<rect x="1076.8" y="696.5" width="66.3" height="42.0" fill="#ca5662" stroke="none"/>
+<rect x="1142.5" y="696.5" width="66.3" height="42.0" fill="#eed4d8" stroke="none"/>
+<rect x="1208.2" y="696.5" width="66.3" height="42.0" fill="#86a4cd" stroke="none"/>
+<rect x="748.0" y="655.1" width="66.3" height="42.0" fill="#b4c6df" stroke="none"/>
+<rect x="813.8" y="655.1" width="66.3" height="42.0" fill="#c0d0e4" stroke="none"/>
+<rect x="879.5" y="655.1" width="66.3" height="42.0" fill="#f4ecef" stroke="none"/>
+<rect x="945.2" y="655.1" width="66.3" height="42.0" fill="#f7f8fa" stroke="none"/>
+<rect x="1011.0" y="655.1" width="66.3" height="42.0" fill="#acc0dc" stroke="none"/>
+<rect x="1076.8" y="655.1" width="66.3" height="42.0" fill="#e1e8f2" stroke="none"/>
+<rect x="1142.5" y="655.1" width="66.3" height="42.0" fill="#de9da4" stroke="none"/>
+<rect x="1208.2" y="655.1" width="66.3" height="42.0" fill="#f0dcdf" stroke="none"/>
+<rect x="748.0" y="613.8" width="66.3" height="42.0" fill="#eef1f7" stroke="none"/>
+<rect x="813.8" y="613.8" width="66.3" height="42.0" fill="#6189be" stroke="none"/>
+<rect x="879.5" y="613.8" width="66.3" height="42.0" fill="#becee4" stroke="none"/>
+<rect x="945.2" y="613.8" width="66.3" height="42.0" fill="#d3757f" stroke="none"/>
+<rect x="1011.0" y="613.8" width="66.3" height="42.0" fill="#edd0d5" stroke="none"/>
+<rect x="1076.8" y="613.8" width="66.3" height="42.0" fill="#8ba8cf" stroke="none"/>
+<rect x="1142.5" y="613.8" width="66.3" height="42.0" fill="#efdade" stroke="none"/>
+<rect x="1208.2" y="613.8" width="66.3" height="42.0" fill="#cc5f6a" stroke="none"/>
+<rect x="748.0" y="572.4" width="66.3" height="42.0" fill="#e0a6ad" stroke="none"/>
+<rect x="813.8" y="572.4" width="66.3" height="42.0" fill="#e6bac0" stroke="none"/>
+<rect x="879.5" y="572.4" width="66.3" height="42.0" fill="#8ba8cf" stroke="none"/>
+<rect x="945.2" y="572.4" width="66.3" height="42.0" fill="#c3d2e6" stroke="none"/>
+<rect x="1011.0" y="572.4" width="66.3" height="42.0" fill="#e6b8be" stroke="none"/>
+<rect x="1076.8" y="572.4" width="66.3" height="42.0" fill="#f6f4f6" stroke="none"/>
+<rect x="1142.5" y="572.4" width="66.3" height="42.0" fill="#91add1" stroke="none"/>
+<rect x="1208.2" y="572.4" width="66.3" height="42.0" fill="#f4ecef" stroke="none"/>
+<rect x="748.0" y="531.0" width="66.3" height="42.0" fill="#f8f9fb" stroke="none"/>
+<rect x="813.8" y="531.0" width="66.3" height="42.0" fill="#ca5662" stroke="none"/>
+<rect x="879.5" y="531.0" width="66.3" height="42.0" fill="#efdbdf" stroke="none"/>
+<rect x="945.2" y="531.0" width="66.3" height="42.0" fill="#87a5cd" stroke="none"/>
+<rect x="1011.0" y="531.0" width="66.3" height="42.0" fill="#efd9dd" stroke="none"/>
+<rect x="1076.8" y="531.0" width="66.3" height="42.0" fill="#d47983" stroke="none"/>
+<rect x="1142.5" y="531.0" width="66.3" height="42.0" fill="#c3d1e5" stroke="none"/>
+<rect x="1208.2" y="531.0" width="66.3" height="42.0" fill="#698fc1" stroke="none"/>
+<rect x="748.0" y="531.0" width="526.0" height="331.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="1011.0" y="895.0" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="middle">Lattice x in 0..7</text>
+<text x="740.0" y="699.5" fill="#1c2128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="end">y</text>
+<rect x="1284.0" y="851.7" width="12.0" height="11.1" fill="#124e9e" stroke="none"/>
+<rect x="1284.0" y="841.3" width="12.0" height="11.1" fill="#2159a4" stroke="none"/>
+<rect x="1284.0" y="831.0" width="12.0" height="11.1" fill="#3064aa" stroke="none"/>
+<rect x="1284.0" y="820.6" width="12.0" height="11.1" fill="#3f6fb0" stroke="none"/>
+<rect x="1284.0" y="810.3" width="12.0" height="11.1" fill="#4d7ab6" stroke="none"/>
+<rect x="1284.0" y="799.9" width="12.0" height="11.1" fill="#5c85bc" stroke="none"/>
+<rect x="1284.0" y="789.6" width="12.0" height="11.1" fill="#6b90c2" stroke="none"/>
+<rect x="1284.0" y="779.2" width="12.0" height="11.1" fill="#7a9bc8" stroke="none"/>
+<rect x="1284.0" y="768.9" width="12.0" height="11.1" fill="#89a6ce" stroke="none"/>
+<rect x="1284.0" y="758.6" width="12.0" height="11.1" fill="#98b1d4" stroke="none"/>
+<rect x="1284.0" y="748.2" width="12.0" height="11.1" fill="#a6bcda" stroke="none"/>
+<rect x="1284.0" y="737.9" width="12.0" height="11.1" fill="#b5c7e0" stroke="none"/>
+<rect x="1284.0" y="727.5" width="12.0" height="11.1" fill="#c4d2e6" stroke="none"/>
+<rect x="1284.0" y="717.2" width="12.0" height="11.1" fill="#d3ddec" stroke="none"/>
+<rect x="1284.0" y="706.8" width="12.0" height="11.1" fill="#e2e8f2" stroke="none"/>
+<rect x="1284.0" y="696.5" width="12.0" height="11.1" fill="#f1f3f8" stroke="none"/>
+<rect x="1284.0" y="686.2" width="12.0" height="11.1" fill="#f6f2f4" stroke="none"/>
+<rect x="1284.0" y="675.8" width="12.0" height="11.1" fill="#f2e4e7" stroke="none"/>
+<rect x="1284.0" y="665.5" width="12.0" height="11.1" fill="#eed6da" stroke="none"/>
+<rect x="1284.0" y="655.1" width="12.0" height="11.1" fill="#eac8cc" stroke="none"/>
+<rect x="1284.0" y="644.8" width="12.0" height="11.1" fill="#e6b9bf" stroke="none"/>
+<rect x="1284.0" y="634.4" width="12.0" height="11.1" fill="#e2abb2" stroke="none"/>
+<rect x="1284.0" y="624.1" width="12.0" height="11.1" fill="#de9da5" stroke="none"/>
+<rect x="1284.0" y="613.8" width="12.0" height="11.1" fill="#da8f97" stroke="none"/>
+<rect x="1284.0" y="603.4" width="12.0" height="11.1" fill="#d6818a" stroke="none"/>
+<rect x="1284.0" y="593.1" width="12.0" height="11.1" fill="#d2737d" stroke="none"/>
+<rect x="1284.0" y="582.7" width="12.0" height="11.1" fill="#ce656f" stroke="none"/>
+<rect x="1284.0" y="572.4" width="12.0" height="11.1" fill="#ca5762" stroke="none"/>
+<rect x="1284.0" y="562.0" width="12.0" height="11.1" fill="#c64855" stroke="none"/>
+<rect x="1284.0" y="551.7" width="12.0" height="11.1" fill="#c23a48" stroke="none"/>
+<rect x="1284.0" y="541.3" width="12.0" height="11.1" fill="#be2c3a" stroke="none"/>
+<rect x="1284.0" y="531.0" width="12.0" height="11.1" fill="#ba1e2d" stroke="none"/>
+<rect x="1284.0" y="531.0" width="12.0" height="331.0" fill="none" stroke="#5a6676" stroke-width="1"/>
+<text x="1300.0" y="537.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">1.99</text>
+<text x="1300.0" y="699.5" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">0</text>
+<text x="1300.0" y="861.0" fill="#5a6676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10px" font-weight="normal" text-anchor="start">-1.99</text>
+</svg>
