@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="980" viewBox="0 0 1440 980">
+  <defs><clipPath id="panel_clip_1"><rect x="104" y="108" width="560" height="344"/></clipPath><clipPath id="panel_clip_2"><rect x="792" y="108" width="560" height="344"/></clipPath><clipPath id="panel_clip_3"><rect x="104" y="548" width="560" height="344"/></clipPath><clipPath id="panel_clip_4"><rect x="792" y="548" width="560" height="344"/></clipPath></defs>
+  <rect x="0" y="0" width="1440" height="980" fill="#ffffff"/>
+  <rect x="0" y="0" width="1440" height="64" fill="#14366d"/>
+  <text x="720" y="29" fill="#ffffff" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="26" text-anchor="middle" font-weight="bold">BATTLE 2: VARGA POSITIVITY, RATIONAL BRACKETS &amp; FAIR-FIGHT 1/N UV LOOPS</text>
+  <text x="720" y="50" fill="#d7e8ff" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">P = (1/12)(8I - A_nn)^2 Positivity | 98.5%-99.8% Pure-Q Brackets | Zero `* N` Handicap on Cubic</text>
+  <text x="720" y="962" fill="#5f6976" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">Ultrafinitist QFT v2.0 | Pure-Q Part I (0 AST Violations) | Fair-Fight 1/N Parity | Zero External Deps</text>
+  <rect x="104" y="108" width="560" height="344" fill="#fcfdff"/>
+  <line x1="117.3" y1="108.0" x2="117.3" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="250.7" y1="108.0" x2="250.7" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="384.0" y1="108.0" x2="384.0" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="517.3" y1="108.0" x2="517.3" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="650.7" y1="108.0" x2="650.7" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="418.8" x2="664.0" y2="418.8" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="336.0" x2="664.0" y2="336.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="253.1" x2="664.0" y2="253.1" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="170.2" x2="664.0" y2="170.2" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="418.8" x2="664.0" y2="418.8" stroke="#5f6976" stroke-width="1" stroke-dasharray="4,4" clip-path="url(#panel_clip_1)"/>
+  <polyline fill="none" stroke="#0072b2" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_1)" points="117.3,275.2 250.7,353.1 384.0,385.9 517.3,398.4 650.7,401.7"/>
+  <circle cx="117.3" cy="275.2" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <circle cx="250.7" cy="353.1" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <circle cx="384.0" cy="385.9" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <circle cx="517.3" cy="398.4" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <circle cx="650.7" cy="401.7" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <polyline fill="none" stroke="#009e73" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_1)" points="117.3,259.1 250.7,352.7 384.0,385.5 517.3,398.1 650.7,401.4"/>
+  <rect x="113.3" y="255.1" width="8" height="8" fill="#009e73" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <rect x="246.7" y="348.7" width="8" height="8" fill="#009e73" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <rect x="380.0" y="381.5" width="8" height="8" fill="#009e73" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <rect x="513.3" y="394.1" width="8" height="8" fill="#009e73" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <rect x="646.7" y="397.4" width="8" height="8" fill="#009e73" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <polyline fill="none" stroke="#cc2929" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5,3" clip-path="url(#panel_clip_1)" points="117.3,124.1 250.7,273.0 384.0,378.8 517.3,422.9 650.7,433.6"/>
+  <polygon points="117.3,119.1 122.3,124.1 117.3,129.1 112.3,124.1" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <polygon points="250.7,268.0 255.7,273.0 250.7,278.0 245.7,273.0" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <polygon points="384.0,373.8 389.0,378.8 384.0,383.8 379.0,378.8" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <polygon points="517.3,417.9 522.3,422.9 517.3,427.9 512.3,422.9" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <polygon points="650.7,428.6 655.7,433.6 650.7,438.6 645.7,433.6" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_1)"/>
+  <rect x="260" y="362" width="226" height="18" fill="#ffffff" fill-opacity="0.900"/>
+  <rect x="260" y="362" width="226" height="18" fill="none" stroke="#e2e6ec" stroke-width="1"/>
+  <text x="265" y="374" fill="#cc2929" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start" font-weight="bold">Ringing G_min = -0.0356 &lt; 0</text>
+  <rect x="104" y="108" width="560" height="344" fill="none" stroke="#373e48" stroke-width="2"/>
+  <line x1="117.0" y1="452.0" x2="117.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="117" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">0</text>
+  <line x1="251.0" y1="452.0" x2="251.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="251" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">1</text>
+  <line x1="384.0" y1="452.0" x2="384.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="384" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">2</text>
+  <line x1="517.0" y1="452.0" x2="517.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="517" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">3</text>
+  <line x1="651.0" y1="452.0" x2="651.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="651" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">4</text>
+  <line x1="99.0" y1="419.0" x2="104.0" y2="419.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="422" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">0</text>
+  <line x1="99.0" y1="336.0" x2="104.0" y2="336.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="339" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">0.2</text>
+  <line x1="99.0" y1="253.0" x2="104.0" y2="253.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="256" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">0.4</text>
+  <line x1="99.0" y1="170.0" x2="104.0" y2="170.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="173" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">0.6</text>
+  <text x="104" y="96" fill="#14366d" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start" font-weight="bold">A. 2+1D Propagator Profile G_{0,x} (N = 64 over Q)</text>
+  <text x="384" y="486" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold">Lattice Distance |x| along Axis</text>
+  <text x="33" y="280" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold" transform="rotate(-90 33 280)">Propagator Entry G_{0,x}</text>
+  <rect x="338" y="118" width="316" height="74" fill="#ffffff" fill-opacity="0.880"/>
+  <rect x="338" y="118" width="316" height="74" fill="none" stroke="#5f6976" stroke-width="1"/>
+  <line x1="345.0" y1="129.0" x2="365.0" y2="129.0" stroke="#5f6976" stroke-width="2" stroke-dasharray="4,4"/>
+  <text x="371" y="133" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Zero Floor G = 0/1</text>
+  <line x1="345.0" y1="145.0" x2="365.0" y2="145.0" stroke="#0072b2" stroke-width="2"/>
+  <circle cx="355.0" cy="145.0" r="3" fill="#0072b2" stroke="#ffffff" stroke-width="1"/>
+  <text x="371" y="149" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Cycle 3 Varga Symanzik (G &gt; 0/1!)</text>
+  <line x1="345.0" y1="161.0" x2="365.0" y2="161.0" stroke="#009e73" stroke-width="2"/>
+  <rect x="352.0" y="158.0" width="6" height="6" fill="#009e73" stroke="#ffffff" stroke-width="1"/>
+  <text x="371" y="165" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Naive Cubic M-Matrix (G &gt; 0/1)</text>
+  <line x1="345.0" y1="177.0" x2="365.0" y2="177.0" stroke="#cc2929" stroke-width="2" stroke-dasharray="5,3"/>
+  <polygon points="355.0,173.0 359.0,177.0 355.0,181.0 351.0,177.0" fill="#cc2929" stroke="#ffffff" stroke-width="1"/>
+  <text x="371" y="181" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Unfactored Biharmonic (G_min &lt; 0!)</text>
+  <rect x="792" y="108" width="560" height="344" fill="#fcfdff"/>
+  <line x1="817.5" y1="108.0" x2="817.5" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="944.7" y1="108.0" x2="944.7" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="1072.0" y1="108.0" x2="1072.0" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="1199.3" y1="108.0" x2="1199.3" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="1326.5" y1="108.0" x2="1326.5" y2="452.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="372.0" x2="1352.0" y2="372.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="292.0" x2="1352.0" y2="292.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="212.0" x2="1352.0" y2="212.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="132.0" x2="1352.0" y2="132.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="132.0" x2="1352.0" y2="132.0" stroke="#944ea3" stroke-width="2" stroke-dasharray="6,4" clip-path="url(#panel_clip_2)"/>
+  <polygon points="817.5,423.9 944.7,424.6 1072.0,424.8 1199.3,424.8 1326.5,424.8 1326.5,425.1 1199.3,425.1 1072.0,425.0 944.7,424.9 817.5,424.3" fill="#4691d7" fill-opacity="0.280" stroke="none" clip-path="url(#panel_clip_2)"/>
+  <polyline fill="none" stroke="#cc2929" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_2)" points="817.5,417.9 944.7,401.4 1072.0,378.1 1199.3,345.1 1326.5,298.2"/>
+  <polygon points="817.5,412.9 822.5,417.9 817.5,422.9 812.5,417.9" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <polygon points="944.7,396.4 949.7,401.4 944.7,406.4 939.7,401.4" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <polygon points="1072.0,373.1 1077.0,378.1 1072.0,383.1 1067.0,378.1" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <polygon points="1199.3,340.1 1204.3,345.1 1199.3,350.1 1194.3,345.1" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <polygon points="1326.5,293.2 1331.5,298.2 1326.5,303.2 1321.5,298.2" fill="#cc2929" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <polyline fill="none" stroke="#e67e00" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_2)" points="817.5,421.2 944.7,421.5 1072.0,421.8 1199.3,421.8 1326.5,421.9"/>
+  <rect x="813.5" y="417.2" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <rect x="940.7" y="417.5" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <rect x="1068.0" y="417.8" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <rect x="1195.3" y="417.8" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <rect x="1322.5" y="417.9" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <polyline fill="none" stroke="#0072b2" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_2)" points="817.5,424.3 944.7,424.9 1072.0,424.9 1199.3,425.0 1326.5,425.0"/>
+  <circle cx="817.5" cy="424.3" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <circle cx="944.7" cy="424.9" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <circle cx="1072.0" cy="424.9" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <circle cx="1199.3" cy="425.0" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <circle cx="1326.5" cy="425.0" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_2)"/>
+  <rect x="792" y="108" width="560" height="344" fill="none" stroke="#373e48" stroke-width="2"/>
+  <line x1="817.0" y1="452.0" x2="817.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="817" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">6</text>
+  <line x1="945.0" y1="452.0" x2="945.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="945" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">7</text>
+  <line x1="1072.0" y1="452.0" x2="1072.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="1072" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">8</text>
+  <line x1="1199.0" y1="452.0" x2="1199.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="1199" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">9</text>
+  <line x1="1327.0" y1="452.0" x2="1327.0" y2="457.0" stroke="#373e48" stroke-width="1"/>
+  <text x="1327" y="468" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">10</text>
+  <line x1="787.0" y1="452.0" x2="792.0" y2="452.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="455" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">0</text>
+  <line x1="787.0" y1="372.0" x2="792.0" y2="372.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="375" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1</text>
+  <line x1="787.0" y1="292.0" x2="792.0" y2="292.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="295" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">2</text>
+  <line x1="787.0" y1="212.0" x2="792.0" y2="212.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="215" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">3</text>
+  <line x1="787.0" y1="132.0" x2="792.0" y2="132.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="135" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">4</text>
+  <text x="792" y="96" fill="#14366d" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start" font-weight="bold">B. 2+1D Per-Site Tadpole: Fair 1/N vs Continuum a-&gt;0</text>
+  <text x="1072" y="486" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold">log2(N)  [Same 1/N Factor on Both!]</text>
+  <text x="721" y="280" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold" transform="rotate(-90 721 280)">Tadpole Amplitude tau_1</text>
+  <rect x="802" y="118" width="348" height="90" fill="#ffffff" fill-opacity="0.880"/>
+  <rect x="802" y="118" width="348" height="90" fill="none" stroke="#5f6976" stroke-width="1"/>
+  <line x1="809.0" y1="129.0" x2="829.0" y2="129.0" stroke="#944ea3" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="835" y="133" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Global Ceiling 1/m0^2 = 4 (0/1 slack)</text>
+  <line x1="809.0" y1="145.0" x2="829.0" y2="145.0" stroke="#4691d7" stroke-width="2" stroke-dasharray="2,2"/>
+  <text x="835" y="149" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Pure-Q 54th Bracket (98.5% tight)</text>
+  <line x1="809.0" y1="161.0" x2="829.0" y2="161.0" stroke="#cc2929" stroke-width="2"/>
+  <polygon points="819.0,157.0 823.0,161.0 819.0,165.0 815.0,161.0" fill="#cc2929" stroke="#ffffff" stroke-width="1"/>
+  <text x="835" y="165" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Continuum Box a=L/sqrt(N)-&gt;0 (UV div!)</text>
+  <line x1="809.0" y1="177.0" x2="829.0" y2="177.0" stroke="#e67e00" stroke-width="2"/>
+  <rect x="816.0" y="174.0" width="6" height="6" fill="#e67e00" stroke="#ffffff" stroke-width="1"/>
+  <text x="835" y="181" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Naive Cubic (Fair 1/N, a=1)</text>
+  <line x1="809.0" y1="193.0" x2="829.0" y2="193.0" stroke="#0072b2" stroke-width="2"/>
+  <circle cx="819.0" cy="193.0" r="3" fill="#0072b2" stroke="#ffffff" stroke-width="1"/>
+  <text x="835" y="197" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Cycle 3 V_m (Fair 1/N, a=1)</text>
+  <rect x="104" y="548" width="560" height="344" fill="#fcfdff"/>
+  <line x1="129.5" y1="548.0" x2="129.5" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="256.7" y1="548.0" x2="256.7" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="384.0" y1="548.0" x2="384.0" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="511.3" y1="548.0" x2="511.3" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="638.5" y1="548.0" x2="638.5" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="828.3" x2="664.0" y2="828.3" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="764.6" x2="664.0" y2="764.6" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="700.9" x2="664.0" y2="700.9" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="637.2" x2="664.0" y2="637.2" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="104.0" y1="573.5" x2="664.0" y2="573.5" stroke="#e2e6ec" stroke-width="1"/>
+  <polygon points="129.5,674.4 256.7,698.6 384.0,702.9 511.3,702.9 638.5,702.7 638.5,959.3 511.3,941.4 384.0,914.5 256.7,922.0 129.5,1057.8" fill="#28af87" fill-opacity="0.240" stroke="none" clip-path="url(#panel_clip_3)"/>
+  <polyline fill="none" stroke="#2ba0c9" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4,3" clip-path="url(#panel_clip_3)" points="129.5,616.5 256.7,639.3 384.0,643.0 511.3,643.3 638.5,643.3"/>
+  <circle cx="129.5" cy="616.5" r="4" fill="#2ba0c9" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="256.7" cy="639.3" r="4" fill="#2ba0c9" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="384.0" cy="643.0" r="4" fill="#2ba0c9" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="511.3" cy="643.3" r="4" fill="#2ba0c9" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="638.5" cy="643.3" r="4" fill="#2ba0c9" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <polyline fill="none" stroke="#0072b2" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_3)" points="129.5,709.8 256.7,720.4 384.0,722.3 511.3,722.5 638.5,722.5"/>
+  <circle cx="129.5" cy="709.8" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="256.7" cy="720.4" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="384.0" cy="722.3" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="511.3" cy="722.5" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <circle cx="638.5" cy="722.5" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <polyline fill="none" stroke="#e67e00" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_3)" points="129.5,810.6 256.7,817.2 384.0,822.7 511.3,822.8 638.5,822.9"/>
+  <rect x="125.5" y="806.6" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <rect x="252.7" y="813.2" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <rect x="380.0" y="818.7" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <rect x="507.3" y="818.8" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <rect x="634.5" y="818.9" width="8" height="8" fill="#e67e00" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_3)"/>
+  <rect x="132" y="589" width="362" height="18" fill="#ffffff" fill-opacity="0.900"/>
+  <rect x="132" y="589" width="362" height="18" fill="none" stroke="#e2e6ec" stroke-width="1"/>
+  <text x="137" y="601" fill="#14366d" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start" font-weight="bold">Both Bounded at a=1; V_m Removes Odd-m Kinks</text>
+  <rect x="104" y="548" width="560" height="344" fill="none" stroke="#373e48" stroke-width="2"/>
+  <line x1="129.0" y1="892.0" x2="129.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="129" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">6</text>
+  <line x1="257.0" y1="892.0" x2="257.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="257" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">7</text>
+  <line x1="384.0" y1="892.0" x2="384.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="384" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">8</text>
+  <line x1="511.0" y1="892.0" x2="511.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="511" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">9</text>
+  <line x1="639.0" y1="892.0" x2="639.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="639" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">10</text>
+  <line x1="99.0" y1="892.0" x2="104.0" y2="892.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="895" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1.65</text>
+  <line x1="99.0" y1="828.0" x2="104.0" y2="828.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="831" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1.7</text>
+  <line x1="99.0" y1="765.0" x2="104.0" y2="765.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="768" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1.75</text>
+  <line x1="99.0" y1="701.0" x2="104.0" y2="701.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="704" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1.8</text>
+  <line x1="99.0" y1="637.0" x2="104.0" y2="637.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="640" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1.85</text>
+  <line x1="99.0" y1="573.0" x2="104.0" y2="573.0" stroke="#373e48" stroke-width="1"/>
+  <text x="96" y="576" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1.9</text>
+  <text x="104" y="536" fill="#14366d" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start" font-weight="bold">C. Fair-Fight 2-Loop Mass Ratio R_m^(2)(N) in 2+1D</text>
+  <text x="384" y="926" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold">log2(N)  [Zero *N Baseline Handicap!]</text>
+  <text x="33" y="720" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold" transform="rotate(-90 33 720)">Effective Mass Ratio R_m^(2)</text>
+  <rect x="322" y="808" width="332" height="74" fill="#ffffff" fill-opacity="0.880"/>
+  <rect x="322" y="808" width="332" height="74" fill="none" stroke="#5f6976" stroke-width="1"/>
+  <line x1="329.0" y1="819.0" x2="349.0" y2="819.0" stroke="#28af87" stroke-width="2" stroke-dasharray="2,2"/>
+  <text x="355" y="823" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Certified Pure-Q R_m^(2) Envelope</text>
+  <line x1="329.0" y1="835.0" x2="349.0" y2="835.0" stroke="#2ba0c9" stroke-width="2" stroke-dasharray="4,3"/>
+  <circle cx="339.0" cy="835.0" r="3" fill="#2ba0c9" stroke="#ffffff" stroke-width="1"/>
+  <text x="355" y="839" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Cycle 3 1-Loop R_m^(1) (1.845)</text>
+  <line x1="329.0" y1="851.0" x2="349.0" y2="851.0" stroke="#0072b2" stroke-width="2"/>
+  <circle cx="339.0" cy="851.0" r="3" fill="#0072b2" stroke="#ffffff" stroke-width="1"/>
+  <text x="355" y="855" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Cycle 3 2-Loop R_m^(2) (0.56% drift)</text>
+  <line x1="329.0" y1="867.0" x2="349.0" y2="867.0" stroke="#e67e00" stroke-width="2"/>
+  <rect x="336.0" y="864.0" width="6" height="6" fill="#e67e00" stroke="#ffffff" stroke-width="1"/>
+  <text x="355" y="871" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Naive Cubic Fair 1/N (odd-m kinks)</text>
+  <rect x="792" y="548" width="560" height="344" fill="#fcfdff"/>
+  <line x1="817.5" y1="548.0" x2="817.5" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="944.7" y1="548.0" x2="944.7" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="1072.0" y1="548.0" x2="1072.0" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="1199.3" y1="548.0" x2="1199.3" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="1326.5" y1="548.0" x2="1326.5" y2="892.0" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="823.2" x2="1352.0" y2="823.2" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="737.2" x2="1352.0" y2="737.2" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="651.2" x2="1352.0" y2="651.2" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="565.2" x2="1352.0" y2="565.2" stroke="#e2e6ec" stroke-width="1"/>
+  <line x1="792.0" y1="880.1" x2="1352.0" y2="880.1" stroke="#009e73" stroke-width="2" stroke-dasharray="6,4" clip-path="url(#panel_clip_4)"/>
+  <polyline fill="none" stroke="#0072b2" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#panel_clip_4)" points="817.5,565.2 944.7,722.8 1072.0,822.8 1199.3,846.7 1326.5,879.9"/>
+  <circle cx="817.5" cy="565.2" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_4)"/>
+  <circle cx="944.7" cy="722.8" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_4)"/>
+  <circle cx="1072.0" cy="822.8" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_4)"/>
+  <circle cx="1199.3" cy="846.7" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_4)"/>
+  <circle cx="1326.5" cy="879.9" r="4" fill="#0072b2" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_4)"/>
+  <rect x="1322.5" y="876.3" width="8" height="8" fill="#944ea3" stroke="#ffffff" stroke-width="1" clip-path="url(#panel_clip_4)"/>
+  <rect x="937" y="737" width="250" height="18" fill="#ffffff" fill-opacity="0.900"/>
+  <rect x="937" y="737" width="250" height="18" fill="none" stroke="#e2e6ec" stroke-width="1"/>
+  <text x="942" y="749" fill="#0072b2" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start" font-weight="bold">Midpoint-54 Tightness = 98.53%</text>
+  <rect x="792" y="548" width="560" height="344" fill="none" stroke="#373e48" stroke-width="2"/>
+  <line x1="817.0" y1="892.0" x2="817.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="817" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">0</text>
+  <line x1="945.0" y1="892.0" x2="945.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="945" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">1</text>
+  <line x1="1072.0" y1="892.0" x2="1072.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="1072" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">2</text>
+  <line x1="1199.0" y1="892.0" x2="1199.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="1199" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">3</text>
+  <line x1="1327.0" y1="892.0" x2="1327.0" y2="897.0" stroke="#373e48" stroke-width="1"/>
+  <text x="1327" y="908" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">4</text>
+  <line x1="787.0" y1="823.0" x2="792.0" y2="823.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="826" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">1</text>
+  <line x1="787.0" y1="737.0" x2="792.0" y2="737.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="740" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">2</text>
+  <line x1="787.0" y1="651.0" x2="792.0" y2="651.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="654" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">3</text>
+  <line x1="787.0" y1="565.0" x2="792.0" y2="565.0" stroke="#373e48" stroke-width="1"/>
+  <text x="784" y="568" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="end">4</text>
+  <text x="792" y="536" fill="#14366d" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start" font-weight="bold">D. Positivstellensatz Quadrature Tightening (2+1D N=1024)</text>
+  <text x="1072" y="926" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold">Bound Stage (0=Ceil, 1=Sec, 2=Radau, 3=Lobatto, 4=Mid54)</text>
+  <text x="721" y="720" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold" transform="rotate(-90 721 720)">Certified Bound on tau_1</text>
+  <rect x="1042" y="558" width="300" height="58" fill="#ffffff" fill-opacity="0.880"/>
+  <rect x="1042" y="558" width="300" height="58" fill="none" stroke="#5f6976" stroke-width="1"/>
+  <line x1="1049.0" y1="569.0" x2="1069.0" y2="569.0" stroke="#009e73" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="1075" y="573" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Exact tau_1 = 0.3381</text>
+  <line x1="1049.0" y1="585.0" x2="1069.0" y2="585.0" stroke="#0072b2" stroke-width="2"/>
+  <circle cx="1059.0" cy="585.0" r="3" fill="#0072b2" stroke="#ffffff" stroke-width="1"/>
+  <text x="1075" y="589" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Certified Rational Upper Bounds</text>
+  <line x1="1049.0" y1="601.0" x2="1069.0" y2="601.0" stroke="#944ea3" stroke-width="2"/>
+  <rect x="1056.0" y="598.0" width="6" height="6" fill="#944ea3" stroke="#ffffff" stroke-width="1"/>
+  <text x="1075" y="605" fill="#262a30" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" text-anchor="start">Midpoint-54 Rational Lower Bound</text>
+</svg>

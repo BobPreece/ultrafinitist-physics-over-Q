@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference these constructive ultrafinitist engines or symbolic proofs, please cite this repository."
+title: "Constructive Ultrafinitist Physics Over Q: Quantum Field Theory, Celestial Mechanics, 3D Turbulence, Black Hole General Relativity, and Finite-N Phase Transitions"
+version: 2.0.0
+date-released: 2026-11-16
+url: "https://github.com/BobPreece/ultrafinitist-physics-over-Q"
+license: MIT
+authors:
+  - family-names: "Preece"
+    given-names: "Bob"

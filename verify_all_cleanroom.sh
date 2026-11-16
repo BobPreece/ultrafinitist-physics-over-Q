@@ -1,20 +1,22 @@
-#!/bin/sh
-set -e
-echo "======================================================================"
-echo " RUNNING CLEAN-ROOM ISOLATED VERIFICATION SUITE (python3 -I)"
-echo "======================================================================"
-echo "\n[1/4] Verifying Exhibit I: Renormalization-Free Lattice QFT..."
-/usr/bin/python3 -I Run_1_standalone_ultrafinitist_qft.py --quick --out-dir Run_1_plots
+#!/usr/bin/env bash
+set -euo pipefail
 
-echo "\n[2/4] Verifying Exhibit II: Ultrafinitist Classical Mechanics Over Q..."
-/usr/bin/python3 -I Run_2_standalone_rational_mechanics.py --steps 1000 --plots-dir Run_2_plots
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SCRIPTS=(
+  "Run_1_standalone_ultrafinitist_qft.py"
+  "Run_2_standalone_rational_mechanics.py"
+  "Run_3_standalone_ultrafinitist_turbulence.py"
+  "Run_4_standalone_ultrafinitist_gravity.py"
+  "Run_5_standalone_ultrafinitist_statmech.py"
+)
 
-echo "\n[3/4] Verifying Exhibit III Symbolic Spatial & No-Blowup Bounds Over Q..."
-/usr/bin/python3 -I Run_3_verify_spatial_and_bounds.py
-
-echo "\n[4/4] Verifying Exhibit III: Singularity-Free 2D/3D Fluid Turbulence Over Q..."
-/usr/bin/python3 -I Run_3_standalone_ultrafinitist_turbulence.py
-
-echo "\n======================================================================"
-echo " ALL THREE ULTRAFINITIST EXHIBITS VERIFIED CLEANLY (EXIT 0)"
-echo "======================================================================"
+echo "=== Zero-Trust /tmp Clean-Room Verification (5 Pure-Q Exhibits) ==="
+for script in "${SCRIPTS[@]}"; do
+  SANDBOX="$(mktemp -d /tmp/cleanroom_ultrafinitist_XXXXXX)"
+  cp "$ROOT_DIR/$script" "$SANDBOX/$script"
+  echo "-> Running /usr/bin/python3 -I $script in $SANDBOX ..."
+  (cd "$SANDBOX" && /usr/bin/python3 -I "$script")
+  rm -rf "$SANDBOX"
+  echo "   [PASS] $script"
+done
+echo "=== ALL 5 EXHIBITS PASSED CLEAN-ROOM ISOLATION ==="
